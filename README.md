@@ -52,8 +52,3 @@ Welcome to the **Accident Severity Prediction Platform**, an innovative tool des
 - Libraries: `streamlit`, `pandas`, `scikit-learn`, `joblib`, `Pillow`
 
 ---
-
-## 🏃‍♂️ Quick Start
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/accident-severity-predictor.git
